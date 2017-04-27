@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     static final String[] STATIONS = new String[]{
-            "A","B","c","d"
+            "A","B","C","D"
     };
 }
 
